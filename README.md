@@ -42,15 +42,6 @@ Why? Because the robots aren’t going to train themselves. 🤖✨
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### 🌟 Featured Project: Nexus Mind
-
-#### AI-Powered Knowledge Discovery & Insights Platform
-- 🔍 Engineered an AI Document Intelligence Platform using RAG, LangChain, and Cohere
-- 📊 Developed Real-Time Document Analytics with DBSCAN clustering and D3.js visualization
-- 🚀 Architected Cloud-Native Infrastructure with FastAPI, PostgreSQL, and AWS S3
-
-**Technologies:** FastAPI | TypeScript | TailwindCSS | Cohere | Redis | AWS S3 | D3.js | Jest | Cypress | OpenAPI
-
 ### 🏆 Professional Experience
 **Software Engineer** @ Thoucentric (2024 - Present)
 - Contributed to full-stack development projects
