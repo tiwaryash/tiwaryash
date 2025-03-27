@@ -1,4 +1,5 @@
-# Hi there! I'm Yash Tiwary 👋
+# Yash Tiwary
+Code. Lift. Explore. Repeat.
 
 ## 🚀 Full Stack Developer | AI & ML Enthusiast
 
