@@ -1,9 +1,8 @@
 # Yash Tiwary
 Code. Lift. Explore. Repeat.
 
-## 🚀 Full Stack Developer | AI & ML Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/yash-tiwary)
+## 🚀 Full Stack Developer | AI & ML Practitioner
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-tiwary/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](YOUR_TWITTER_PROFILE_URL)
 [![Personal Website](https://img.shields.io/badge/Portfolio-green?style=flat-square)](YOUR_PERSONAL_WEBSITE_URL)
 
