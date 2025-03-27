@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | AI & ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/yash-tiwary)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](YOUR_TWITTER_PROFILE_URL)
 [![Personal Website](https://img.shields.io/badge/Portfolio-green?style=flat-square)](YOUR_PERSONAL_WEBSITE_URL)
 
@@ -63,7 +63,5 @@ I'm a recent graduate and software engineer with 1.4 years of professional exper
 I'm always open to exciting opportunities, collaborations, and discussions about technology. Feel free to reach out!
 
 **Email:** yash.r.tiwary@gmail.com
-**LinkedIn:** www.linkedin.com/in/yash-tiwary
-**Portfolio:** 
 
 
